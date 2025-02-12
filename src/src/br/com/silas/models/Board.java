@@ -3,9 +3,9 @@ package br.com.silas.models;
 import java.util.Collection;
 import java.util.List;
 
-import static br.com.dio.model.GameStatusEnum.COMPLETE;
-import static br.com.dio.model.GameStatusEnum.INCOMPLETE;
-import static br.com.dio.model.GameStatusEnum.NON_STARTED;
+import static br.com.silas.models.GameStatusEnum.COMPLETE;
+import static br.com.silas.models.GameStatusEnum.INCOMPLETE;
+import static br.com.silas.models.GameStatusEnum.NON_STARTED;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 
